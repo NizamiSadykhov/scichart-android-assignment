@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SciChart Assignment</string>
+    <string name="chart_integration_title">График случайного блуждания</string>
+    <string name="missing_license_title">Требуется пробный ключ SciChart</string>
+    <string name="missing_license_message">Добавьте SCICHART_LICENSE_KEY в local.properties и пересоберите приложение.</string>
+    <string name="sources_title">Источники данных</string>
+    <string name="sources_loading">Загрузка источников…</string>
+    <string name="sources_error">Не удалось получить состояние источников</string>
+    <string name="source_completed">Завершён</string>
+    <string name="source_failed">Ошибка</string>
+    <string name="source_remaining_time">осталось %1$s</string>
+    <string name="source_metrics">%1$s · значение %2$.3f · точек %3$d</string>
+    <string name="source_visibility">Показывать линию %1$s</string>
+    <string name="legend_item_content_description">Легенда линии %1$s</string>
+    <string name="chart_content_description">График значений десяти источников во времени</string>
+    <string name="axis_time">Время</string>
+    <string name="axis_value">Значение</string>
+</resources>

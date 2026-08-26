@@ -1,0 +1,4 @@
+# Add this line to your existing local.properties file.
+# Keep the real key local and never commit it to Git.
+# CI can provide the same value through the SCICHART_LICENSE_KEY environment variable.
+SCICHART_LICENSE_KEY=replace_with_your_trial_key
