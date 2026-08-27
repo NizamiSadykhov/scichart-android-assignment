@@ -3,6 +3,16 @@
 Одноэкранное Android-приложение с десятью независимыми генераторами значений, списком их
 состояний и потоковым графиком SciChart. Реализация закрывает все семь пунктов тестового задания.
 
+## Скачать готовое приложение
+
+**[Открыть страницу Release v1.0.0](https://github.com/NizamiSadykhov/scichart-android-assignment/releases/tag/v1.0.0)**
+
+[Скачать оптимизированный APK напрямую](https://github.com/NizamiSadykhov/scichart-android-assignment/releases/download/v1.0.0/SciChart-Android-Assignment-v1.0.0.apk)
+
+APK предназначен для проверки задания, собран с release-оптимизациями и работает на Android 7.0
+(API 24) или новее. Поскольку приложение распространяется вне Google Play, Android может попросить
+разрешение на установку из выбранного браузера или файлового менеджера.
+
 ## Демонстрация
 
 [![Демонстрация приложения на Samsung SM-G975F](docs/demo/scichart-preview.png)](docs/demo/scichart-demo-samsung.mp4)
